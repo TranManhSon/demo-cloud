@@ -1,4 +1,4 @@
-import { RabbitMQConfig } from './../../node_modules/@golevelup/nestjs-rabbitmq/lib/rabbitmq.interfaces.d';
+import { RabbitMQConfig } from '@golevelup/nestjs-rabbitmq/lib/rabbitmq.interfaces';
 import * as dotenv from 'dotenv';
 
 
