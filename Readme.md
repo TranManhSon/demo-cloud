@@ -23,7 +23,7 @@ Our web application consists of a front-end running on Google Compute Engine, a 
 ## ✍️ Architecture  <a name = "architecture"></a>
 
 
-![Screenshot](Screenshot.png)
+![Screenshot](Picture1.png)
 
 ## ✍️ Detail Config  <a name = "detail_config"></a>
 
